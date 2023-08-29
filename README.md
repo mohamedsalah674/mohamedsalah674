@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
-<h3 align="center">Student at Faculty of Engineering</h3>
+<h3 align="center"> آNetwork Engineer</h3>
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/projects/404/458b7e41201431.Y3JvcCw3NzMsNjA1LDQ3LDQ2Mg.jpg" alt="Coding" width="400" />
