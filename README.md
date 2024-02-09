@@ -10,6 +10,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+<div style="width: 80%; margin: 0 auto;">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -36,6 +37,7 @@
   <img src="https://www.itssglobal.com/wp-content/uploads/2020/06/T24CoreBanking.png" alt="Temenos T24" width="40" height="40"/>
 
 <p align="center">
+</div>
 
 
 
