@@ -56,8 +56,7 @@
 <!-- Add more rows or columns for the icons if needed -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsalah674&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedsalah674&show_icons=true&locale=en" alt="GitHub Stats" />
