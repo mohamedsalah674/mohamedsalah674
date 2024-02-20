@@ -58,7 +58,10 @@
 <p align="center">
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsalah674&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsalah674&layout=compact&show_icons=true&locale=en)](https://github.com/mohamedsalah674)
+
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedsalah674&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
