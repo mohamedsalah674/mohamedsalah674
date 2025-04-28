@@ -7,7 +7,7 @@
 <body>
 
 <h1 align="center">Mohamed Salah</h1>
-<h3 align="center">Back-end developer</h3>
+<h3 align="center">T24 Technical Consultant</h3>
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/projects/404/458b7e41201431.Y3JvcCw3NzMsNjA1LDQ3LDQ2Mg.jpg" alt="Coding" width="400" />
